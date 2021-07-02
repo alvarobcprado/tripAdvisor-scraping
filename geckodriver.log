@@ -1,0 +1,1304 @@
+1625238307051	geckodriver	INFO	Listening on 127.0.0.1:52047
+1625238310203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofileLsODSn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625238322622	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofileLsODSn\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 7340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625238368865	geckodriver	INFO	Listening on 127.0.0.1:52165
+1625238371769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofiletP76WC"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625238373784	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofiletP76WC\\search.json.mozlz4", (void 0)))
+1625238380854	Marionette	INFO	Listening on port 52175
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625238382312	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+[Parent 8736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625238873817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is undefined", "resource://devtools/client/inspector/rules/utils/utils.js", 192))
+1625238990553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1625239155742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://unpkg.com/@jupyter-widgets/html-manager@%5E0.20.0/dist/embed-amd.js, line 1: ReferenceError: define is not defined
+[Parent 8736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:814:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:699:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:126:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:445:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 126, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 126))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 8736, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+IPDL protocol error: Handler returned error code!
+
+###!!! 1625242236623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofileXQbTf4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625242239709	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofileXQbTf4\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625242246150	Marionette	INFO	Listening on port 58273
+1625242246275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625242305266	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+1625242308615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2156:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:231:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:503:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:445:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625242651852	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: https://unpkg.com/@jupyter-widgets/html-manager@%5E0.20.0/dist/embed-amd.js, line 1: ReferenceError: define is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625242831220	Marionette	INFO	Stopped listening on port 58273
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofilelp0OQg"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625242825616	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofilelp0OQg\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625242831580	Marionette	INFO	Listening on port 58543
+1625242831865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+1625242864978	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2156:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:231:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:503:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:445:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.snigelweb.com/pub/w3schools.com/20200508/snhb-w3schools.com.min.js?202106041904, line 129: TypeError: d.loadGlobalSettings is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized,[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://buildandteach.com/jupyter-notebook-tutorials/lesson-10-how-to-reset-the-kernel-clear-all-in-memory-objects-and-stop-the-code/, line 24: ReferenceError: jQuery is not defined
+1625243891312	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625243951362	Marionette	INFO	Stopped listening on port 59176
+1625243958903	geckodriver	INFO	Listening on 127.0.0.1:59427
+1625243961941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofilevjoL55"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625243962953	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofilevjoL55\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625243967242	Marionette	INFO	Listening on port 59436
+1625243967514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625243996412	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+e" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofileEj7mc7"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625244334480	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofileEj7mc7\\search.json.mozlz4", (void 0)))
+1625244339411	Marionette	INFO	Listening on port 59705
+1625244339695	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: https://static.tacdn.com/assets/B7vHz6.135347bd.js, line 1: SyntaxError: An invalid or illegal string was specified
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1625244447605	Marionette	INFO	Stopped listening on port 59705
+1625244466292	geckodriver	INFO	Listening on 127.0.0.1:60001
+1625244469208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ALVARO~1\\AppData\\Local\\Temp\\rust_mozprofileL5Ygkp"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625244470764	Marionette	INFO	Marionette enabled
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alvaroprado\\AppData\\Local\\Temp\\rust_mozprofileL5Ygkp\\search.json.mozlz4", (void 0)))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625244475496	Marionette	INFO	Listening on port 60009
+1625244475566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625244496731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1625244911762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1625244911819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://gum.criteo.com/sync?c=30&r=2&j=cr_handle_data_a, line 1: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://static.tacdn.com/assets/MG7IEl.ce8b2887.js, line 1: SecurityError: The operation is insecure.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1625246431457	Marionette	INFO	Stopped listening on port 60009
+[Parent 1424, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
