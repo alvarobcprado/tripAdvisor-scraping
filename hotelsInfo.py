@@ -8,6 +8,6 @@ class HotelsInfo:
     def add(self, name, value, city, reviews, date):
         self.hotels = self.hotels.append({'nome': name, 'diaria': value, 'municipio': city, 'avaliacoes':reviews, 'data':date}, ignore_index= True)
     
-    def finish(self):
-        self.hotels.to_excel("HoteisMT.xlsx")
+    def finish(self, date):
+        self.hotels.to_excel("HoteisMT_"+date+".xlsx")
         
